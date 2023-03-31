@@ -1,5 +1,6 @@
 {
     "api_key": "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",
+    "base_url": "api.openai.com",
     "model": "gpt-3.5-turbo",
     "session_timeout": 600,
     "http_proxy": "",
