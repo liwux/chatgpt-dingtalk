@@ -48,7 +48,7 @@ func New(userId string) *ChatGPT {
 			}}
 	}
 	if public.Config.BaseURL != "" {
-		config.BaseURL = public.Config.BaseURL + "/v1"
+		config.BaseURL = "https://"+public.Config.BaseURL + "/v1"
 	}
 
 	return &ChatGPT{
