@@ -1,11 +1,9 @@
 {
-    "api_key": "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",
-    "base_url": "",
+    "api_key": "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",
     "model": "gpt-3.5-turbo",
     "session_timeout": 600,
     "http_proxy": "",
     "default_mode": "单聊",
-    "max_request": 0,
-    "port": "8090",
+    "port": "9090",
     "service_url": "http://chat.ai-industry.com"
 }
