@@ -150,9 +150,4 @@ var Welcome string = `# 发送信息
 
 即使有保留上下文的需求，也应适时使用"重置"指令来重置上下文。
 
------
-
-# 项目地址
-
-本项目已在GitHub开源，[查看源代码](https://github.com/eryajf/chatgpt-dingtalk)。
 `
